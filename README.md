@@ -1,5 +1,5 @@
 # Hotel-Data-Analysis
-Develop a Database to Analyze and Visualize Hotel Booking Data
+Develop a Database to Analyze and Visualize Hotel Booking Data.
 
 the main tasks of this project are :
 - build a Database using SQL Server.
